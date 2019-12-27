@@ -1,0 +1,10 @@
+<?php
+
+namespace KJZ\SchoolBiz;
+
+require_once __DIR__ . '/_init.php';
+
+class {name}
+{
+    
+}

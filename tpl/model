@@ -1,0 +1,18 @@
+<?php
+namespace SchoolBiz\models;
+
+use SchoolBiz\base\BaseModel;
+
+class {model} extends BaseModel
+{
+    /**
+    * 
+    * @var {model}
+    */
+    protected static $_instance = null;
+
+    public $dbName = 'super_school';
+    
+    public $table = '{table}';
+    
+}

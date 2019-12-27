@@ -1,0 +1,9 @@
+<?php
+namespace SchoolBiz\services;
+
+use SchoolBiz\base\BaseService;
+
+class {name} extends BaseService
+{
+    
+}
